@@ -7,7 +7,7 @@ comments: true
 categories: Blog
 #tags: [Hexo]
 keywords: Hexo, Blog
-description: 生命在于折腾
+<!--description: 生命在于折腾-->
 photos:
     - https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superplus/img/logo_white_ee663702.png
 
@@ -18,8 +18,6 @@ tags:
 
 ---
 这里简要做介绍，深入了解可以参考:[官方文档](http://hexo.io/docs/)
-
-## Quick Start
 
 ### 创建新文章
 
@@ -45,6 +43,8 @@ description: 生命在于折腾
 photos:
     - https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superplus/img/logo_white_ee663702.png
 ```
+
+<!-- more -->
 
 #### 显示摘要
 ``` cpp
