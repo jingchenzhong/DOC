@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	hideDotFiles = dotGitOnly
+[branch "master"]
+	remote = https://github.com/fitzlee/fitzlee.github.io.git
+	merge = refs/heads/master
