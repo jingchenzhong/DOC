@@ -191,7 +191,7 @@ Git commit:
 正常的显示，而不会超过屏幕。
 下面是一些： 提交者信息，或者其他信息，一般都是 git 里面需要的代码编写者或者
 测试者名字和邮箱，具体参考 git 。
-
+(http://blog.csdn.net/jingxia2008/article/details/41290837  http://blog.jobbole.com/92713/)
 
 	Summarize changes in around 50 characters or less
 	 
