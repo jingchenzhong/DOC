@@ -228,3 +228,6 @@ Git commit:
 modified: xxx(modified content, untracked content)
 大概意思是xxx目录没有被跟踪。那自然push上去的时候是空的了
 解决办法：后来发现这主要是xxx目录下有一个.git 目录，可能是被人给你这个目录的时候里面有了.git目录。删除.git目录。重新git add .就可
+0 git add . 前最好删除所有字母下的.git 一个工程最好只有一个.git
+1 find . -name .git | xargs rm -fr
+2 git add .
