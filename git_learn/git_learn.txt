@@ -145,6 +145,12 @@ Changes to be committed(has added .):
 1 git reset HEAD readme.txt
 
 
+Reset:
+1 git reset --hard HEAD^(HEAD当前版本，HEAD^^前两版本，HEAD~100前100版本)
+2 git log --pretty=oneline
+3 git reset --hard 3628164 
+4 git reflog  (查看命令历史，以便确定要回到未来的哪个版本)
+
 Fetch&Pull:
 ( ! [rejected]        master -> master (fetch first))
 1 git fetch origin master  (master:master 中第一个master是origin/master)
