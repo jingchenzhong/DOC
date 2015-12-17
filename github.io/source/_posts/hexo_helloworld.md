@@ -96,3 +96,4 @@ $ hexo d -g
 ```
 More info: [Generating](http://hexo.io/docs/generating.html)
 More info: [Deployment](http://hexo.io/docs/deployment.html)
+More info: [Markdown](http://dillinger.io/)
