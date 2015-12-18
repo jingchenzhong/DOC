@@ -5,7 +5,15 @@
 * 多做：从小事做起，脚踏实地，不要大跃进，步步为赢；做细做精通，做一件事就要做完整，搞明白
 
 ## feelings
-记录自己心路历程，多鼓励自己
+记录自己心路历程，多鼓励自己，坚持勤奋
 
-## plan
+
+# Plan My Goal 
 做一些计划，但愿时间不要荒废掉；总感觉玩不是玩，工作又没有全身心投入，长此以往必然废掉
+1. android App/IOS + web(jsp,js,html,restfull)+ auth + UI设计 + 框架  (专为IT劳苦大众学习进步而私人定制) 
+2. android系统应用+ framework + dalvikvm (MYUI)
+3. Linux内核 + 嵌入式系统 + 智能硬件 (智能家居)
+3. Algorithms + Datastructures + 数据挖掘 (大数据内容分析)
+4. Tools: git + markdown + vim + doc (加快开发速度)
+5. 英语+健身+读书+博客 (健康生活)
+6. 移动后端云firebase + openshift
