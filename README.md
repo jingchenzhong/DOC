@@ -4,11 +4,11 @@
  * 多玩：督促自己培养兴趣爱好，让小我的世界变得不那么孤单
  * 多做：从小事做起，脚踏实地，不要大跃进，步步为赢；做细做精通，做一件事就要做完整，搞明白
 
-## feelings
+## Feelings (My Heart) 
 记录自己心路历程，多鼓励自己，坚持勤奋
 
 
-## Plan My Goal 
+## Plan (My Goals) 
 做一些计划，但愿时间不要荒废掉；总感觉玩不是玩，工作又没有全身心投入，长此以往必然废掉
  * android App/IOS + web(jsp,js,html,restfull)+ auth + UI设计 + 框架  (专为IT劳苦大众学习进步而私人定制)
  * android系统应用+ framework + dalvikvm (MYUI)
@@ -17,3 +17,12 @@
  * Tools: git + markdown + vim + doc (加快开发速度)
  * 英语+健身+读书+博客 (健康生活)
  * 移动后端云firebase + openshift
+
+
+## Presentation (My Presentations)
+ * App 展示(Android/IOS)  "手机 和 Google Glass"
+ * Web展示 (Spring mvc & js)
+ * 桌面应用 展示 (c# & linux qt)
+ * 拿别人的过来集成，迅速提高自己，把别人的重写一遍，变成开源的自己的
+ * google glass/jia android framework/qemu arm/sun android trustzone/  learn  
+ * Linux auth server/tian linux net gateway/liang web auth             learn 
