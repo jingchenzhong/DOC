@@ -285,3 +285,23 @@ $ git add .
 ```
 
 * 如果在master做了修改，没有commit，就新建分支，分支commit，将导致master恢复版本，之前的修改自动放到branch新分支里
+
+
+##Repository
+work -> [stage index -> HEAD(master/dev)] 
+work directory => You can see all files  (git add -> stage)
+stage master dev => .git repository (git commit -> master/dev)
+
+##reset
+###only one file should be recoveryed to HEAD   
+1 stage index-> unstaged   (git reset HEAD readme.txt) (work=index,index=HEAD)
+2 stage index(now_is_null=HEAD) ->  workspace  (git checkout --filename)(work=index)
+###all files should be recoveryed to HEAD
+git reset --hard HEAD  (index=null,work=HEAD)
+###staged_index -> work (give up workspace modify)
+git checkout .
+git checkout --filename 
+
+
+   
+
