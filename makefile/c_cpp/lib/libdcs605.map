@@ -1,0 +1,17 @@
+{
+global:
+	*SMInit*;
+	
+	*SM2MsgE*;
+	*SM2Sign*;
+	*SM2Verify*;
+	*SM2Encrypt*;
+	*SM2Decrypt*;
+
+	SM3Hash;
+
+	*SM4Encrypt*;
+	*SM4Decrypt*;
+
+local: *;
+};
