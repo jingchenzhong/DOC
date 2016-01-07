@@ -9,6 +9,17 @@
 
 3. IDEA_HOME/bin/studio64.vmoptions 128M => 512M faster
 4. android studio open project
+5. source insignt or eclipse  (read&debug java)
+
+##how to read
+bootloader
+recovery
+linux kernel
+native library so
+framework
+system app rom ui
+security
+
 
 
 
