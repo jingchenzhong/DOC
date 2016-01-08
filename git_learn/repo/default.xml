@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="fitzlee"
+           fetch="git://github.com/fitzlee/"  />
+
+  <default revision="refs/heads/master"
+           remote="fitzlee"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="Blog" name="Blog" />
+  <project path="DOC" name="DOC" />
+  <project path="Doctor" name="Doctor" />
+  <project path="FitzLee.github.io" name="FitzLee.github.io" />
+  <project path="JavaAlgorithmsDataStructure" name="JavaAlgorithmsDataStructure" />
+  <project path="JNIDemo" name="JNIDemo" />
+  <project path="MasterThesis" name="MasterThesis" />
+  <project path="WebJavaJs" name="WebJavaJs" />
+  <project path="AppNativeComponent" name="AppNativeComponent" />
+  <project path="CrossPlatformMobile" name="CrossPlatformMobile" />
+
+</manifest>
